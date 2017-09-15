@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1370665042 source:d:\学习资料\opengl projects\robe\arcball.cpp
+	"math.h"
+	"ArcBall.h"
+
+1155368372 source:d:\学习资料\opengl projects\robe\freetype.cpp
+	"freetype.h"
+
+1091099504 source:d:\学习资料\opengl projects\robe\vector3d.cpp
+	"VECTOR3D.h"
+	<math.h>
+
+1417096298 source:d:\学习资料\opengl projects\robe\main.cpp
+	<windows.h>
+	"FreeImagePlus.h"
+	"GL/glut.h"
+	"GL/glext.h"
+	<stdlib.h>
+	<vector>
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<cmath>
+	<stdarg.h>
+	"string.h"
+	<cstring>
+	"Vector3D.h"
+	"ArcBall.h"
+	"FreeType.h"
+	"Perlin.h"
+	"Physics2.h"
+
+1358595221 d:\学习资料\opengl projects\robe\physics2.h
+	"Physics1.h"
+
+1155302498 d:\学习资料\opengl projects\robe\physics1.h
+	<math.h>
+
+1370665042 source:d:\学习资料\opengl projects\template_hair\arcball.cpp
+	"math.h"
+	"ArcBall.h"
+
+1155368372 source:d:\学习资料\opengl projects\template_hair\freetype.cpp
+	"freetype.h"
+
+1419677952 source:d:\学习资料\opengl projects\template_hair\vector3d.cpp
+	"VECTOR3D.h"
+	<math.h>
+
+1420638988 source:d:\学习资料\opengl projects\template_hair\main.cpp
+	<windows.h>
+	"FreeImagePlus.h"
+	"GL/glut.h"
+	"GL/glext.h"
+	<stdlib.h>
+	<vector>
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<cmath>
+	<stdarg.h>
+	"string.h"
+	<cstring>
+	"Vector3D.h"
+	"ArcBall.h"
+	"FreeType.h"
+	"Physics2.h"
+	"LightScattering.h"
+
+1358595221 d:\学习资料\opengl projects\template_hair\physics2.h
+	"Physics1.h"
+
+1155302498 d:\学习资料\opengl projects\template_hair\physics1.h
+	<math.h>
+
+1420644258 d:\学习资料\opengl projects\template_hair\lightscattering.h
+	<cmath>
+	<cstdlib>
+	<vector>
+

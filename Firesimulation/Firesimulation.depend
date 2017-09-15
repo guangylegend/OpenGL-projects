@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1370665042 source:d:\学习资料\opengl projects\firesimulation\arcball.cpp
+	"math.h"
+	"ArcBall.h"
+
+1155368372 source:d:\学习资料\opengl projects\firesimulation\freetype.cpp
+	"freetype.h"
+
+1371726124 source:d:\学习资料\opengl projects\firesimulation\main.cpp
+	<windows.h>
+	"FreeImagePlus.h"
+	"GL/glut.h"
+	"GL/glext.h"
+	<stdlib.h>
+	<vector>
+	<stdio.h>
+	<string>
+	<iostream>
+	<fstream>
+	<cmath>
+	<stdarg.h>
+	<string>
+	"Vector3D.h"
+	"ArcBall.h"
+	"FreeType.h"
+	"Perlin.h"
+
+1091099504 source:d:\学习资料\opengl projects\firesimulation\vector3d.cpp
+	"VECTOR3D.h"
+	<math.h>
+
+1371735667 source:d:\学习资料\opengl projects\firesimulation\perlin.cpp
+	"Perlin.h"
+
+1372073979 source:d:\学习资料\opengl projects\firesimulation\particle.cpp
+	"Particle.h"
+

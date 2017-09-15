@@ -1,0 +1,23 @@
+﻿生成启动时间为 2015/1/7 4:54:59。
+     1>项目“D:\study\2014_09\OpenGL\SimpleShader\SimpleShader\SimpleShader.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\program files (x86)\microsoft visual studio 11.0\vc\include\gl\gl.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\study\2014_09\opengl\simpleshader\simpleshader\main.cpp(20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : 参见“fopen”的声明
+     1>d:\study\2014_09\opengl\simpleshader\simpleshader\main.cpp(45): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : 参见“fopen”的声明
+     1>d:\study\2014_09\opengl\simpleshader\simpleshader\main.cpp(67): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>d:\study\2014_09\opengl\simpleshader\simpleshader\main.cpp(101): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+     1>d:\study\2014_09\opengl\simpleshader\simpleshader\main.cpp(103): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+     1>d:\study\2014_09\opengl\simpleshader\simpleshader\main.cpp(105): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+     1>d:\study\2014_09\opengl\simpleshader\simpleshader\main.cpp(109): warning C4305: “+=”: 从“double”到“float”截断
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\study\2014_09\OpenGL\SimpleShader\Debug\SimpleShader.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\study\2014_09\OpenGL\SimpleShader\Debug\SimpleShader.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\study\2014_09\OpenGL\SimpleShader\Debug\SimpleShader.lib" /MACHINE:X86 Debug\main.obj
+         SimpleShader.vcxproj -> D:\study\2014_09\OpenGL\SimpleShader\Debug\SimpleShader.exe
+     1>已完成生成项目“D:\study\2014_09\OpenGL\SimpleShader\SimpleShader\SimpleShader.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.77

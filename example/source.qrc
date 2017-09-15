@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>accept.png</file>
+        <file>add.png</file>
+        <file>anchor.png</file>
+        <file>die0.png</file>
+        <file>die1.png</file>
+        <file>die2.png</file>
+        <file>die3.png</file>
+        <file>hit0.png</file>
+        <file>jump0.png</file>
+        <file>move0.png</file>
+        <file>move1.png</file>
+        <file>move2.png</file>
+        <file>stand0.png</file>
+        <file>stand1.png</file>
+        <file>stand2.png</file>
+        <file>stand3.png</file>
+    </qresource>
+</RCC>

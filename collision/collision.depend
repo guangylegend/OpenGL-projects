@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1370665042 source:d:\collision\arcball.cpp
+	"math.h"
+	"ArcBall.h"
+
+1372158951 source:d:\collision\basic_element.cpp
+	"basic_element.h"
+
+1372160144 source:d:\collision\control.cpp
+	"control.h"
+
+1372221528 source:d:\collision\main.cpp
+	"GL/glut.h"
+	"GL/glext.h"
+	<stdlib.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	<vector>
+	"control.h"
+	"ArcBall.h"
+	<cmath>
+
+1370792840 source:d:\collision\sys.cpp
+

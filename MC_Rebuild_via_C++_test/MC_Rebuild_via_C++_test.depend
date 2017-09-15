@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1091099504 source:d:\学习资料\opengl projects\mc_rebuild_via_c++_test\vector3d.cpp
+	"VECTOR3D.h"
+	<math.h>
+
+1091099504 d:\学习资料\opengl projects\mc_rebuild_via_c++_test\vector3d.h
+
+1314140394 d:\mingw32\include\math.h
+	<_mingw.h>
+
+1314140392 d:\mingw32\include\_mingw.h
+
+1371655493 source:d:\学习资料\opengl projects\mc_rebuild_via_c++_test\main.cpp
+	<windows.h>
+	"FreeImagePlus.h"
+	"GL/glut.h"
+	"GL/glext.h"
+	<stdlib.h>
+	<vector>
+	<stdio.h>
+	<string>
+	<iostream>
+	<fstream>
+	<cmath>
+	"Vector3D.h"
+	<stdarg.h>
+	<string>
+	"FreeType.h"
+
+1155368372 source:d:\学习资料\opengl projects\mc_rebuild_via_c++_test\freetype.cpp
+	"freetype.h"
+
+1155363584 d:\学习资料\opengl projects\mc_rebuild_via_c++_test\freetype.h
+	<ft2build.h>
+	<freetype/freetype.h>
+	<freetype/ftglyph.h>
+	<freetype/ftoutln.h>
+	<freetype/fttrigon.h>
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<vector>
+	<string>
+	<stdexcept>
+
+1098501808 d:\学习资料\opengl projects\mc_rebuild_via_c++_test\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1301111166 d:\学习资料\opengl projects\mc_rebuild_via_c++_test\gl\glext.h
+	<windows.h>
+
+1321171595 d:\学习资料\opengl projects\mc_rebuild_via_c++_test\gl\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+

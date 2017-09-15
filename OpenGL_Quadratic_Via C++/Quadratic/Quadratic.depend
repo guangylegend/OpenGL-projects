@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1367474175 source:d:\Ñ§Ï°×ÊÁÏ\opengl projects\opengl_quadratic_via c++\quadratic\main.cpp
+	<windows.h>
+	<GL/glaux.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<string>
+	<iostream>
+
